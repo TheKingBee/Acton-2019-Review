@@ -1,5 +1,7 @@
 site_name: Acton Business Review 
-theme:  material
+theme:
+  name: null
+  custom_dir: 'mkdocs-material/material'
 nav:
         - 'Customers & Sales':
                 - customersshoes.md
