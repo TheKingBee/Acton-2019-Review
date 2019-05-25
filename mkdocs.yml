@@ -1,7 +1,13 @@
 site_name: Acton Business Review 
 theme:
-  name: null
-  custom_dir: 'mkdocs-material/material'
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
 nav:
         - 'Customers & Sales':
                 - customersshoes.md
