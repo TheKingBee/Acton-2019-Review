@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: Acton Business Review 
+theme:  material
+nav:
+        - 'Customers & Sales':
+                - customersshoes.md
+                - haggling.md
+                - insidemind.md
+                - customerbehavior.md
+                - dealingwithcompetition.md
+                - targetingcustomers.md
+                - pricingseasons.md
+                - artofpricing1.md
+        - Operations: operations.md
+        - Robo Rush: roborush.md
+
