@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome to the 2019 Acton Review
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Use the menu on the left or the search box to get started.
 
-## Commands
+## Latest Update
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+May 28th: Added Monkey Ranch section
+Customers & Sales: content nearly complete
 
-## Project layout
+## Todo
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Operations
+- Cash andValuation
+- Discovery

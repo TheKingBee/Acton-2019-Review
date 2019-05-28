@@ -1,6 +1,6 @@
 # The Art of Pricing Pt. 1
 
-**What is a Price?**
+### **What is a Price?**
 
 A price is really just a proxy, a number used to state one person's
 subjective value of an object or service, stated in a currency, like
@@ -36,8 +36,7 @@ Most entrepreneurs think of price in one of three ways:
     difficult to estimate for even one customer, much less a
     heterogeneous collection of customers.
 
-**Pricing in the Real World: Sharing the Value You Create with
-Customers**
+## Pricing in the Real World: Sharing the Value You Create with Customers
 
 So which of the three approaches to pricing is best? Actually, none of
 them in isolation, all of them in concert. Each approach---cost-plus
@@ -49,7 +48,7 @@ entrepreneurs and consumers, a way of dividing the value created by
 trading, set amidst the competitive landscape of companies trying to
 steal each other's most marginal customers.
 
-**Three important observations about prices:**
+### **Three important observations about prices**
 
 1\. Setting a price determines how a company and its customer share the
 value created in a transaction.
@@ -71,14 +70,14 @@ So where should you price in this continuum? Apart from any type of
 legal constraints or consideration of competitors' pricing, the decision
 largely depends on:
 
-1.  [The type of product or service you are offering]{.underline}
+1.  __The type of product or service you are offering__
 
-    a.  **Impulse Needs** (Impulse items are products or services a
+    A.  **Impulse Needs** (Impulse items are products or services a
         customer buys largely because "they are there" when the mood
         strikes. Think of a candy bar or a child's toy or a magazine
-        sold at the checkout aisle of the supermarket).\\
+        sold at the checkout aisle of the supermarket).
 
-    b.  **Utilitarian or Functional Needs** (These typically involve a
+    B.  **Utilitarian or Functional Needs** (These typically involve a
         need where the value can be rationally computed by the customer.
         Think of consumers calculating the benefit of buying a lawnmower
         and mowing the yard themselves versus paying a landscaping
@@ -89,8 +88,8 @@ largely depends on:
 > user's identity (for consumer goods) or involve solving complex
 > problems for business customers).
 
-[2. Whether your strategy is to "skim" or "penetrate" a
-market]{.underline}
+2\. __Whether your strategy is to "skim" or "penetrate" a
+market__
 
 Your financial and pricing strategy can often be simplified as a
 decision to skim and price as high as possible, or to penetrate and
