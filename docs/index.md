@@ -2,14 +2,19 @@
 
 Use the menu on the left or the search box to get started.
 
-## Latest Update
+## Latest Updates
+
+May 29th: Completed [Introduction to Customers](./intro-to-customers.md)
+
+May 29th: Added [Frameworks page](./frameworks.md)
+
+May 29th: Added Videos for Monkey Ranch #1, #2, #3, #4, and #6
 
 May 28th: Added Monkey Ranch section
 
-Customers & Sales: content nearly complete
 
 ## Todo
 
 - Operations
-- Cash andValuation
+- Cash and Valuation
 - Discovery

@@ -1,4 +1,6 @@
 site_name: Acton Business Review 
+site_url: 'http://shazzam.me'
+repo_url: https://github.com/TheKingBee/Acton-2019-Review
 theme:
   name: 'material'
   language: 'en'
@@ -9,22 +11,23 @@ theme:
     text: 'Roboto'
     code: 'Roboto Mono'
 nav:
-        - 'Customers & Sales':
-                - intro-to-customers.md
-                - customersshoes.md
-                - haggling.md
-                - insidemind.md
-                - customerbehavior.md
-                - dealingwithcompetition.md
-                - targetingcustomers.md
-                - pricingseasons.md
-                - artofpricing1.md
-                - artofpricing2.md
-                - salesfunnel.md
-                - chaching.md
-                - saleswom.md
-                - answeringquestionswithquestions.md
-        - Operations: operations.md
-        - 'Cash & Valuation': cashvaluation.md
-        - Discovery: discovery.md
-        - 'Monkey Ranch': monkeyranch.md
+  - frameworks.md
+  - 'Customers & Sales':
+          - intro-to-customers.md
+          - customersshoes.md
+          - haggling.md
+          - insidemind.md
+          - customerbehavior.md
+          - dealingwithcompetition.md
+          - targetingcustomers.md
+          - pricingseasons.md
+          - artofpricing1.md
+          - artofpricing2.md
+          - salesfunnel.md
+          - chaching.md
+          - saleswom.md
+          - answeringquestionswithquestions.md
+  - Operations: operations.md
+  - 'Cash & Valuation': cashvaluation.md
+  - Discovery: discovery.md
+  - 'Monkey Ranch': monkeyranch.md
