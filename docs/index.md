@@ -18,3 +18,4 @@ May 28th: Added Monkey Ranch section
 - Operations
 - Cash and Valuation
 - Discovery
+- Monkey Ranch #5

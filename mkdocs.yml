@@ -1,6 +1,6 @@
 site_name: Acton Business Review 
 site_url: 'http://shazzam.me'
-repo_url: https://github.com/TheKingBee/Acton-2019-Review
+# repo_url: https://github.com/TheKingBee/Acton-2019-Review
 theme:
   name: 'material'
   language: 'en'
@@ -31,3 +31,8 @@ nav:
   - 'Cash & Valuation': cashvaluation.md
   - Discovery: discovery.md
   - 'Monkey Ranch': monkeyranch.md
+  - Readings:
+      - thegoal.md
+      - thewarofart.md
+      - emyth.md
+      - mastery.md
