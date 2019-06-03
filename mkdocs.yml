@@ -2,7 +2,9 @@ site_name: Acton Business Review
 site_url: 'http://shazzam.me'
 # repo_url: https://github.com/TheKingBee/Acton-2019-Review
 theme:
-  name: 'material'
+  name: null 
+  custom_dir: 'mkdocs-material/material'
+  logo: 'cloud'
   language: 'en'
   palette:
     primary: 'indigo'
@@ -10,6 +12,7 @@ theme:
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
+  feature: 'false'
 nav:
   - frameworks.md
   - 'Customers & Sales':

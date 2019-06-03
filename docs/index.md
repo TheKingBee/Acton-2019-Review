@@ -4,6 +4,8 @@ Use the menu on the left or the search box to get started.
 
 ## Latest Updates
 
+May 29th: Added [The Goal](thegoal.md) & [The War of Art](thewarofart.md) sections
+
 May 29th: Completed [Introduction to Customers](./intro-to-customers.md)
 
 May 29th: Added [Frameworks page](./frameworks.md)
